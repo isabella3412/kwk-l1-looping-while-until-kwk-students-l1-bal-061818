@@ -6,5 +6,5 @@ def using_while
     force += 1
   end
 end
+end
  using_while
- 
